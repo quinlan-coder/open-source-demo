@@ -47,7 +47,7 @@
       ],
       "get": {
         "operationId": "GET_todo",
-        "summary": "Get Todo",
+        "summary": "Get Todo modified from github ",
         "tags": [
           "Todos"
         ],
