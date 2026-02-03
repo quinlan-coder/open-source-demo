@@ -5,7 +5,6 @@
     {
       "type": "group",
       "title": "Tokens",
-      "uri": "/docs/3.Sample-Rules copy.md",
       "items": [
     {
       "type": "item",
@@ -23,6 +22,11 @@
       "type": "item",
       "title": "To-dos",
       "uri": "/reference/todos.v1.json"
+    },
+    {
+      "type": "item",
+      "title": "Sample-Rules copy",
+        "uri": "/docs/3.Sample-Rules copy.md"
     },
     {
       "type": "item",
