@@ -1,0 +1,52 @@
+
+{
+  "collapseTableOfContents": false,
+  "items": [
+    {
+      "type": "group",
+      "title": "Tokens",
+      "uri": "/docs/3.Sample-Rules copy.md",
+      "items": [
+        {
+          "type": "item",
+          "title": "Sample Rules",
+          "uri": "/docs/3.Sample-Rules.md"
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "title": "To-dos",
+      "uri": "/reference/todos.v1.json"
+    },
+    {
+      "type": "item",
+      "title": "Prism",
+      "uri": "/docs/4.Prism.md"
+    },
+    {
+      "type": "item",
+      "title": "Prism",
+      "uri": "/docs/1.Demo Environment"
+    },
+    {
+      "type": "item",
+      "title": "Prism",
+      "uri": "/docs/2.Spectral"
+    },
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "a",
+      "uri": "/reference/a.yaml"
+    },
+    {
+      "type": "item",
+      "title": "a.yml",
+      "uri": "/reference/a.yml.yaml"
+    }
+  ]
+}
